@@ -1,1 +1,1 @@
-print("Welcome to LACASA Online Shopping System");
+print("Welcome to ZECK Online Shopping System");
